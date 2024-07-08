@@ -34,9 +34,9 @@ Create a `.env` file in the project root and define these variables.
 To start the application in development mode, use the following command:
 
 ```
-npm start
+npm run dev
 # o
-yarn start
+yarn dev
 ```
 
 This will start the application on port 5173 by default. Open your browser and go to http://localhost:5173/ to view the application.
