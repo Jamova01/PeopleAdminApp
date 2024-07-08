@@ -9,7 +9,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
 ```
-git clone https://github.com/tu-usuario/PeopleAdminApp.git
+git clone https://github.com/Jamova01/PeopleAdminApp.git
 cd PeopleAdminApp
 ```
 
