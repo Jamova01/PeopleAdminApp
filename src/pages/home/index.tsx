@@ -1,11 +1,11 @@
-import { MagnifyingGlassIcon, XMarkIcon } from "@heroicons/react/24/outline";
+import { MagnifyingGlassIcon } from "@heroicons/react/24/outline";
 import { PersonForm } from "../../components/home/PersonForm";
 import { useState } from "react";
-import { Modal } from "../../components/ shared/Modal";
+import { Modal } from "../../components/shared/Modal";
 import UsePeople from "../../hooks/UsePeople";
-import { Table } from "../../components/ shared/Table";
+import { Table } from "../../components/shared/Table";
 import { Person } from "../../types";
-import { ModalAlert } from "../../components/ shared/ModalAlert/ModalAlert";
+import { ModalAlert } from "../../components/shared/ModalAlert/ModalAlert";
 
 function Home() {
   const [showModal, setShowModal] = useState(false);
